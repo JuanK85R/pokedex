@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+
+body{
+    background-color: ghostwhite;
+}
+
+#titulo{
+  font-size: 50px;
+  font-family: 'Permanent Marker', cursive;
+}
+
+img{
+    width: 220px;
+}
+
+.lupa{
+    width: 40px;
+}
+h1{
+    color: orange;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+h2{
+    color: red;
+    font-family: 'Permanent Marker', cursive;
+}
+.card{
+    background-color: orange;
+    margin: 3%;
+}
+
+h3,h4{
+    color: white;
+}
+#app{
+   justify-content: space-between;
+   
+}
